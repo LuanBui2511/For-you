@@ -12,10 +12,19 @@ body {
     height: 400px;
     background-image: linear-gradient(#dc5a539b, #fa408454);
     text-align: center;
-    align-items: center;
 }
 h1 {
     transform: translate(40%, -1950%);
 }
-.java {
+.son{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    transform: translateY(-10%);
+    font-size: 24px;
+    padding: 6px 50px;
+    line-height: 25px;
+}
+.span {
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 700;
 }
